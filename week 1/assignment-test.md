@@ -1,9 +1,11 @@
    <h2>week 1 assignment(section1)</h2>
         I regularly use websites and web applications such as Google Docs, YouTube, Notion, Reddit, Spotify, and X (formerly Twitter). Each plays a unique role in my daily routine, whether for productivity, entertainment, or staying informed. One web application I find particularly well-designed is X. From a users perspective, X is effective because of its clean layout and real-time interaction. The design emphasizes speed and simplicity, allowing users to engage quickly with content through an intuitive scrolling experience. Its visual hierarchy and fluid feed transitions make browsing seamless, while subtle animations and dynamic elements keep the interface engaging without feeling overwhelming.
-
+<span>   
         By the end of this cohort, I hope to build a web experience that feels truly immersive,something that combines interactivity with striking visuals. I’m inspired to create a project that integrates 3D objects, smooth animations, and a jaw-dropping user interface that draws people in the moment they land on the page. I want to experiment with libraries like Three.js or React Three Fiber to bring depth and movement to the web in a way that feels alive and modern.
 
         I’m most excited to learn how to design and code interfaces that blend creativity with functionality, especially exploring animation, transitions, and responsive layouts. What makes me a bit nervous is handling the complexity of 3D rendering and performance optimization, but I’m eager to take on those challenges. My ultimate goal is to create digital experiences that don’t just work well but feel unforgettable.
+
+<span>
 
   <h2>week 1 assignment(section2)</h2>
        while i was inspecting the website through my browsers, i noticed the frequent use of (div) on the element pannel 
