@@ -12,11 +12,14 @@
   <h2>week 1 assignment(section2)</h2>
        while i was inspecting the website through my browsers, i noticed the frequent use of (div) on the element pannel 
      <br>
+     <br>
     &nbsp;
      i also noticed the styles sections had all the css commands but the where scattered in a way that on proffesionals will understand
      <br>
+     <br>
      &nbsp;
      i saw the use of (script) command which must be to call javascript into our html code
+     <br>
      <br>
      &nbsp;
      it was a fun experience although its not my first time but i got to relive the fun experience seeing thing i had no clue about and also this i dont have any clue about right now
